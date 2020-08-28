@@ -79,7 +79,7 @@ def game_hash(top_hash)
       :blocks => 0,
       :slam_dunks => 0
     },
-     {:player_name => "",
+     {:player_name => "DeSagna Diop",
       :number => "",
       :shoe => "",
       :points => 0,
