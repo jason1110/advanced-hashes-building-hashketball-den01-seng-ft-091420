@@ -112,5 +112,6 @@ def game_hash(top_hash)
     }
     ]  
   }
+  }
   
 end
