@@ -1,4 +1,4 @@
-def game_hash(top_hash)
+def game_hash(hash)
   
  
   {:home =>
