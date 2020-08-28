@@ -59,7 +59,7 @@ def game_hash(top_hash)
     {:team_name = "Charlotte Hornets",
     :colors => ["Turquoise","Purple"],
     :players => [
-    {:player_name => "",
+    {:player_name => "Jeff Adrien",
       :number => "",
       :shoe => "",
       :points => 0,
