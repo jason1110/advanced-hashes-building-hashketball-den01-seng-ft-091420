@@ -109,7 +109,6 @@ def game_hash(top_hash)
       :blocks => 5,
       :slam_dunks => 12
     }
-    }
     ]  
   }
   }
