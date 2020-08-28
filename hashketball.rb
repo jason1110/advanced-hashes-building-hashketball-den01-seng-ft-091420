@@ -1,6 +1,6 @@
 def game_hash(top_hash)
   
-  top_hash = 
+ 
   {:home =>
     {:team_name => "Brooklyn Nets",
      :colors => ["Black","White"],
