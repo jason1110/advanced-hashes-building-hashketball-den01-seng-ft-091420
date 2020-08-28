@@ -1,5 +1,5 @@
 def game_hash(hash)
-  
+binding.pry  
 hash ={:home =>
         {:team_name => "Brooklyn Nets",
          :colors => ["Black","White"],
