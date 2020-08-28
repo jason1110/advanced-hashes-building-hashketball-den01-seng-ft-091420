@@ -16,7 +16,7 @@ def game_hash(top_hash)
       {:slam_dunks => 0}
     ]},
   :away =>    
-    {:team_name = "",
+    {:team_name = "Charlotte Hornets",
     :colors => ["",""],
     :players => [
       {:player_name => ""},
